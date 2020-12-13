@@ -32,3 +32,7 @@ The sampling strategy is the ratio of the minority to the majority population.  
 ![4](https://github.com/JaniceBgithub/MachineLearning_17/blob/main/Resources/over_under.png)
 
 
+## Sampling Methoodology Results
+
+The various sampling strategies all resulted in similar balanced accuracy scores of 0.65 to 0.66.  All the strategies were sensitive to the ratio of minority to majority samples that were set.   The F1 figure was around 0.81 for all cases, except for naive undersampling which had an F1 score of 0.75.
+
