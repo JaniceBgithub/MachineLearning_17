@@ -19,7 +19,7 @@ The sampling strategy is the ratio of the minority to the majority population.  
 - Over and undersampling, sampling strategy = 0.5, balanced accuracy score = 0.65
 
 ### Naive oversampling
-!(https://github.com/JaniceBgithub/MachineLearning_17/blob/main/Resources/Naive_oversample.png)
+![1](https://github.com/JaniceBgithub/MachineLearning_17/blob/main/Resources/Naive_oversample.png)
 
 ### Smote oversampling
 
