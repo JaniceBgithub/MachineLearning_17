@@ -12,9 +12,22 @@ The following steps were employed:
 - print out the inbalanced classification report
 
 
-
 The sampling strategy is the ratio of the minority to the majority population.  A ratio of 1 means a balance between the two.  A ratio of 1 seemed to work best for the oversampling.  A ratio nearly to 0.5 yielded better results for the undersampling and over/under sampling.
 - Naive random oversampling, sampling_strategy = 1, balanced accuracy score = 0.65
 - Smote oversampling, sampling_strategy = 1, balanced accuracy score = 0.66
 - Cluster Centriods undersampling, sampling strategy = 0.5, balanced accuracy score = 0.65
 - Over and undersampling, sampling strategy = 0.5, balanced accuracy score = 0.65
+
+### Naive oversampling
+!(https://github.com/JaniceBgithub/MachineLearning_17/blob/main/Resources/Naive_oversample.png)
+
+### Smote oversampling
+
+
+### Undersampling Cluster Centroids
+
+
+### Over and undersampling
+
+
+
