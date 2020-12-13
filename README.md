@@ -18,16 +18,17 @@ The sampling strategy is the ratio of the minority to the majority population.  
 - Cluster Centriods undersampling, sampling strategy = 0.5, balanced accuracy score = 0.65
 - Over and undersampling, sampling strategy = 0.5, balanced accuracy score = 0.65
 
-### Naive oversampling
+### Naive oversampling results
 ![1](https://github.com/JaniceBgithub/MachineLearning_17/blob/main/Resources/Naive_oversample.png)
 
-### Smote oversampling
+### Smote oversampling results
+![2](https://github.com/JaniceBgithub/MachineLearning_17/blob/main/Resources/smote_over.png)
 
 
 ### Undersampling Cluster Centroids
-
+![3](https://github.com/JaniceBgithub/MachineLearning_17/blob/main/Resources/under.png)
 
 ### Over and undersampling
-
+![4](https://github.com/JaniceBgithub/MachineLearning_17/blob/main/Resources/over_under.png)
 
 
